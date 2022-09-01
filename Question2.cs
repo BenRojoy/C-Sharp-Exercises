@@ -10,7 +10,10 @@ namespace Exercises
     {
         public static void Main1()
         {
+            int a = 23;
+            int b = 32;
 
+            Console.WriteLine($"Sum of {a} and {b} = {a + b}");
 
             Console.ReadKey();
         }

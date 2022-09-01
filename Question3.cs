@@ -10,7 +10,10 @@ namespace Exercises
     {
         public static void Main1()
         {
+            float a = 43.56f;
+            float b = 2f;
 
+            Console.WriteLine($"Quotient of {a} and {b} = {a/b}");
 
             Console.ReadKey();
         }

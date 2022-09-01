@@ -6,10 +6,13 @@ using System.Threading.Tasks;
 
 namespace Exercises
 {
-    internal class Program
+    internal class Question8
     {
-        static void Main0(string[] args)
+        public static void Main1()
         {
+
+
+            Console.ReadKey();
         }
     }
 }
